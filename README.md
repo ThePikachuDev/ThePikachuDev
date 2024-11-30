@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Mehar%20&text2=%F0%9F%92%96%20A%20Passionate%20Full%20Stack%20developer&width=900&height=400))
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Mehar%20&text2=%F0%9F%92%96%20A%20Passionate%20Full%20Stack%20developer&width=900&height=400)
 
 <details>
  <summary>Github stats</summary>
