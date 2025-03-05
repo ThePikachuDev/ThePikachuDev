@@ -1,4 +1,4 @@
-https://pikachusite.vercel.app/
+[PikachuSite](https://pikachusite.vercel.app/)
 
 <details>
  <summary>Github stats</summary>
