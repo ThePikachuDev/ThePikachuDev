@@ -1,4 +1,5 @@
-[Website](https://pikachusite.vercel.app/)  [X/Twitter](https://x.com/ThePikachuDev) 
+<a href="https://pikachusite.vercel.app/">Site</a>  •  <a href="https://x.com/ThePikachuDev">x</a>  
+
 
 <details>
  <summary>Github stats</summary>
