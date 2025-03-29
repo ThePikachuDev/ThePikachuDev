@@ -1,4 +1,4 @@
-[PikachuSite](https://pikachusite.vercel.app/)
+[Website](https://pikachusite.vercel.app/)  [X/Twitter](https://x.com/ThePikachuDev) 
 
 <details>
  <summary>Github stats</summary>
